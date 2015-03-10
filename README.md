@@ -34,7 +34,9 @@ I use the Twicher API to get user’s information because it works without autho
 The link: http://twitcher.steer.me/
 
 #### 6.	Discuss any potential issues that you can foresee with using this API in your project
-If the user enter wrong user name the API will show the message that “You have entered wrong number”
+The potential issues that can be occured are :
+*If the user enter wrong user name the API will show the message that “You have entered wrong number”
+*If the user click on search for the user and he did not enter the user nam, this message will be shown "Please Enter a username"
 
 #### 7.	Evaluate your experience creating the example web page and make a recommendation of whether your team should use this API or keep looking for better options
 I would recommend using this APT because from creating the web page I have add input field the request the username just as the login page. Thus, once the user login in Twixer the user information should shows. Also, when the user search about a user to add in a group, the user will enter the member’s username in input field and see the member’s information as I have done in my example. Then, there will be button to add or search again.
